@@ -1,7 +1,7 @@
 # Project-Manager-Case-Study
 
 **Company**
-A leading North Indian IT Service provider for developing mobile and web apps for clients who manage and trade on digital assets, having ecommerce platform to service huge customer base which are located in the differnt parts of the country. The company specializes developing mobile and web apps and is aggressively looking to expand customer base.
+A leading North Indian IT Service provider for developing mobile and web apps for clients who manage and trade on digital assets, having ecommerce platform to service huge customer base which are located in the different parts of the country. The company specializes developing mobile and web apps and is aggressively looking to expand customer base.
 
 **Challenge**
 The company is in the midst of significant business expansion that included onboarding web, ios and android apps for all of its current customers and aggressively looking for new customer in full capacity. Although, they have limited availability of resources across the domain
