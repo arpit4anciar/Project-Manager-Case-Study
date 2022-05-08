@@ -9,7 +9,7 @@ Web - 1 Senior, 1 Middle Level
 IOS - 1 Senior, 1 middle Level
 Android - 1 Senior, 1 Middle Level
 
-They are currently have 3 customers which are asking for apps in all the 3 domains and there are multiple leads at various stages for the organisations. The project is currently behind schedule and over budget at the mid-point of the implementation. Remaining on this track would have resulted in the loss of critical clients and associated revenue, along with a significantly reduced return on investment.
+They are currently having 3 customers which are asking for apps in all the 3 domains and there are multiple leads at various stages for the organisations. The projects are currently behind schedule and over budget at the mid-point of the implementation. Remaining on this track would have resulted in the loss of critical clients and associated revenue, along with a significantly reduced return on investment.
 
 At the same time, the company had taken on a new project for Android and IOS App. for a leading global retailer. The addition of this client was projected to double this business unit’s annual volume for the company and required bringing two new call centers online to support the added volume.
 
